@@ -1,0 +1,26 @@
+body{
+    background-image: url(background.jpg);
+    font-family: arial;
+    
+}
+
+.pane{
+    margin-left: 25px;
+    border: 1px solid brown;
+    box-sizing: border-box;
+    width: 250px;
+    border-top-left-radius: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-bottom: 25px;
+    background-color: lightgoldenrodyellow;
+  
+}
+
+#showoff{
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 0px !important;
+    box-shadow: 10px 10px 10px darkgray;
+}
